@@ -1,6 +1,6 @@
 export const profile = {
   name: "Justin Poulido",
-  headline: "Computer Science Student | Developer | IT Solutions Builder",
+  headline: "Computer Science Major | Developer | IT Solutions Builder",
   intro:
     "I build web applications, automate business workflows, and solve real-world IT problems with practical software solutions.",
   email: "jpoulido@gmail.com",
@@ -9,7 +9,7 @@ export const profile = {
 }
 
 export const about = [
-  "I'm a Computer Science student and junior IT/developer who enjoys turning messy, manual processes into clean, reliable software. My background blends a strong technical foundation with hands-on experience supporting real businesses.",
+  "I'm a Computer Science Major and junior IT/developer who enjoys turning messy, manual processes into clean, reliable software. My background blends a strong technical foundation with hands-on experience supporting real businesses.",
   "My interests span software development, automation, AI tooling, business systems, and cloud deployment. I like working at the intersection of code and operations — shipping practical tools that make teams faster.",
   "Most of all, I focus on bridging technical work with real business needs: understanding the problem behind the request, then building the right solution and deploying it where people can actually use it.",
 ]
