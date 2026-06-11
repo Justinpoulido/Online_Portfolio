@@ -1,6 +1,6 @@
 export const profile = {
   name: "Justin Poulido",
-  headline: "Computer Science Student | Developer | IT Solutions Builder",
+  headline: "Computer Science Major | Developer | IT Solutions Builder",
   intro:
     "I build web applications, automate business workflows, and solve real-world IT problems with practical software solutions.",
   email: "jpoulido@gmail.com",
